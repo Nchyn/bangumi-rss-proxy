@@ -3,7 +3,7 @@
 
 ### 先上效果
 
-![image-1670144941914](https://blog.instartlove.com/upload/2022/12/image-1670144941914.png)
+![image-1670144941914](./image-1670144941914.png)
 
 ### 教程如下：
 
