@@ -9,12 +9,12 @@
 
 #### 打开workers点击创建服务
 
-![image-1670145077013](https://blog.instartlove.com/upload/2022/12/image-1670145077013.png)
-![image-1670145157403](https://blog.instartlove.com/upload/2022/12/image-1670145157403.png)
+![image-1670145077013](./image-1670145077013.png)
+![image-1670145157403](./image-1670145157403.png)
 
 #### 点击快速编辑
 
-![image-1670145209616](https://blog.instartlove.com/upload/2022/12/image-1670145209616.png)
+![image-1670145209616](./image-1670145209616.png)
 
 #### 编写入以下代码
 
@@ -24,18 +24,18 @@
 
 #### 点击预览查看效果，没问题就点击`保存并部署`
 
-![image-1670145417737](https://blog.instartlove.com/upload/2022/12/image-1670145417737.png)
+![image-1670145417737](./image-1670145417737.png)
 
 #### 返回服务面板点击`Custom Domains - 查看`
 
-![image-1670145538078](https://blog.instartlove.com/upload/2022/12/image-1670145538078.png)
+![image-1670145538078](./image-1670145538078.png)
 
 #### 点击添加路由
 
-![image-1670145592311](https://blog.instartlove.com/upload/2022/12/image-1670145592311.png)
+![image-1670145592311](./image-1670145592311.png)
 
 #### 按照提示填写，使用自己的域名访问
 
-![image-1670145637780](https://blog.instartlove.com/upload/2022/12/image-1670145637780.png)
+![image-1670145637780](./image-1670145637780.png)
 
 #### 解析生效后即可使用域名访问
