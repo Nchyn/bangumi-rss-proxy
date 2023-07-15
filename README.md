@@ -39,3 +39,5 @@
 ![image-1670145637780](./image-1670145637780.png)
 
 #### 解析生效后即可使用域名访问
+
+教程转载自https://blog.instartlove.com/archives/cf-workers
