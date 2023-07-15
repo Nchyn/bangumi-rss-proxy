@@ -1,3 +1,10 @@
+### 使用workers反代bangumi等动画rss站
+
+将 your.workers.dev 换成自己的workers的地址.使用的时候，RSS地址位置填入 [https://your.workers.dev/https://mikanani.me/RSS/](https://your.workers.dev/https://mikanani.me/RSS/)…
+
+部署教程参考：[https://blog.instartlove.com/archives/cf-workers](https://blog.instartlove.com/archives/cf-workers)
+
+
 需要一个反向代理用于家里的一些服务，又苦于国内服务器需要备案，国外服务器价格、延迟感人，所以白嫖一波cloudflare。
 延迟能接受，可以反代带端口的地址。
 
@@ -39,5 +46,3 @@
 ![image-1670145637780](./image-1670145637780.png)
 
 #### 解析生效后即可使用域名访问
-
-教程转载自https://blog.instartlove.com/archives/cf-workers
